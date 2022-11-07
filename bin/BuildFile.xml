@@ -1,0 +1,5 @@
+<bin name="tf_and_skim_v8_signal_time_smearing_correlated" file="tf_and_skim_v8_signal_time_smearing_correlated.cc">
+    <use name="root" />
+    <use name="rootcore" />
+    <use name="PhysicsTools/TensorFlow" />
+</bin>
